@@ -1,0 +1,1 @@
+LightspeedExtention.ApplicationAdapter = DS.FixtureAdapter;
